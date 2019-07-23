@@ -18,7 +18,8 @@ public class SpiralArray {
         int value = 1;
          
         int minCol = 0;
-         
+          
+        
         int maxCol = n-1;
          
         int minRow = 0;
